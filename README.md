@@ -4,9 +4,10 @@
 Un bot adapté pour le serveur Supremity et des commandes de statistiques ainsi que d'aides.
 Dernière MAJ : **13/02/2023 - 22:00**
 
+[Discord Clan Supremity](https://discord.gg/Y8jnqTT55S/)
 
 
-## Commandes (Préfix '`r/`' sur discord !)
+## Commandes
 
 - ...
 
