@@ -6,7 +6,7 @@ Dernière MAJ : **13/02/2023 - 22:00**
 
 
 
-## Commandes
+## Commandes (Préfix 'r/' sur discord !)
 
 - ...
 
