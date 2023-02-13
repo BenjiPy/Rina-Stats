@@ -7,7 +7,7 @@ Dernière MAJ : **13/02/2023 - 22:00**
 [Discord Clan Supremity](https://discord.gg/Y8jnqTT55S/)
 
 
-## Commandes
+## Commandes (préfix sur discord : '`r/`')
 
 - ...
 
