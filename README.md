@@ -9,7 +9,7 @@ Dernière MAJ : **13/02/2023 - 22:00**
 
 ## Commandes (préfix du bot sur discord : '`r/`')
 
-**<Facultatif> | [Obligatoire]**
+**\<Facultatif\> | [Obligatoire]**
 
 - `stats <username>` - Affiche les statistiques Bedwars du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
    Aliases : 'bw'
