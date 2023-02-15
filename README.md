@@ -9,10 +9,28 @@ Dernière MAJ : **13/02/2023 - 22:00**
 
 ## Commandes (préfix du bot sur discord : '`r/`')
 
-**\<Facultatif\> | [Obligatoire]**
+**\<Facultatif\> | [Obligatoire] | 🔰 : COMMANDE ADMIN !**
+
+- `help` - Affiche cette page.
+   <br />
+   Aliases : 'h'
 
 - `stats <username>` - Affiche les statistiques Bedwars du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
+   <br />
    Aliases : 'bw'
+  
+- `rinastats` - Affiche les statistiques du serveur Rinaorc.
+   <br />
+   Aliases : 'rs'
+   
+- 🔰 `gdiscord [username]` - Affiche le discord du joueur renseigné (username Rinaorc).
+   <br />
+   Aliases : 'ds'
+ 
+ - 🔰 `updateMemberCount` - Actualise les membres du serveur discord via le channel.id 1071931013896351876.
+   <br />
+   Aliases : 'umc'
+
 
 
 ## Licence
