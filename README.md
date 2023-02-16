@@ -14,15 +14,19 @@ Dernière MAJ : **16/02/2023 - 18:00**
 - `help` - Affiche cette page.
    <br />
    Aliases : 'h'
-
-- `stats <username>` - Affiche les statistiques Bedwars du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
-   <br />
-   Aliases : 'bw'
   
 - `rinastats` - Affiche les statistiques du serveur Rinaorc.
    <br />
    Aliases : 'rs'
    
+- `bedwars <username>` - Affiche les statistiques Bedwars du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
+   <br />
+   Aliases : 'bw'
+
+- `skyblock <username>` - Affiche les statistiques skyblock du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
+   <br />
+   Aliases : 'sb'
+
 - `carte` <usrname> - Affiche les statistiques du Joueur sous forme de carte (interface graphique png).
    <br />
    Aliases : None
