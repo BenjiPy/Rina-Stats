@@ -23,6 +23,10 @@ Dernière MAJ : **13/02/2023 - 22:00**
    <br />
    Aliases : 'rs'
    
+- `carte` <usrname> - Affiche les statistiques du Joueur sous forme de carte (interface graphique png).
+   <br />
+   Aliases : None
+   
 - 🔰 `gdiscord [username]` - Affiche le discord du joueur renseigné (username Rinaorc).
    <br />
    Aliases : 'ds'
