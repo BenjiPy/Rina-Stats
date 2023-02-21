@@ -2,7 +2,7 @@
 # Rina Stat's
 
 Un bot adapté pour le serveur Supremity et des commandes de statistiques ainsi que d'aides.
-Dernière MAJ : **16/02/2023 - 18:00**
+Dernière MAJ : **21/02/2023 - 12:30**
 
 [Discord Clan Supremity](https://discord.gg/Y8jnqTT55S/)
 
@@ -22,10 +22,6 @@ Dernière MAJ : **16/02/2023 - 18:00**
 - `bedwars <username>` - Affiche les statistiques Bedwars du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
    <br />
    Aliases : 'bw'
-
-- `skyblock <username>` - Affiche les statistiques skyblock du pseudo voulu, affiche les votres si 'username' n'est pas renseigné.
-   <br />
-   Aliases : 'sb'
 
 - `carte` <usrname> - Affiche les statistiques du Joueur sous forme de carte (interface graphique png).
    <br />
